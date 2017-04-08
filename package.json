@@ -1,0 +1,23 @@
+{
+  "name": "magaz",
+  "version": "1.0.0",
+  "description": "MAGAZ",
+  "main": "index.js",
+  "dependencies": {
+    "react-game-kit": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/matyunya/magaz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matyunya/magaz/issues"
+  },
+  "homepage": "https://github.com/matyunya/magaz#readme"
+}
